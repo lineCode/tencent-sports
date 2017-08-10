@@ -1,5 +1,3 @@
->详情请看网站：<https://zhangyuaichiyu.github.io/tencent-sports/dist/index.html#/competition/recommend>
-
 # Vue-draggable模拟腾讯体育拖拽
 >一年一度的NBA总决赛，相信球迷用的最多的就是腾讯体育这款APP，刚好上手Vue，当练手就把这个APP仿下来。
 
