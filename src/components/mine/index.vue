@@ -10,10 +10,10 @@
       <h2 class="name">张雨</h2>
       <div class="desc">
         <p class="tel">电话：13853326361</p>
-        <p class="mail">mail：1195802401@qq.com</p>
+        <p class="mail">mail：13853326361@163.com</p>
       </div>
       <div class="link-group">
-        <a href="https://github.com/prettysheepsheep/" class="github">
+        <a href="https://github.com/zhangyuaichiyu" class="github">
           <img v-lazy="github" alt="">
         </a>
       </div>
