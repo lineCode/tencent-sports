@@ -86,7 +86,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }, [_c('a', {
     staticClass: "github",
     attrs: {
-      "href": "https://github.com/prettysheepsheep/"
+      "href": "https://github.com/zhangyuaichiyu"
     }
   }, [_c('img', {
     directives: [{
@@ -116,7 +116,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "tel"
   }, [_vm._v("电话：13853326361")]), _vm._v(" "), _c('p', {
     staticClass: "mail"
-  }, [_vm._v("mail：1195802401@qq.com")])])
+  }, [_vm._v("mail：13853326361@163.com")])])
 }]}
 
 /***/ }),
@@ -145,4 +145,4 @@ module.exports = Component.exports
 /***/ })
 
 });
-//# sourceMappingURL=17.8e41eb90071e0e55c9d1.js.map
+//# sourceMappingURL=17.187cde751258522f605a.js.map
