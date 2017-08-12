@@ -1,13 +1,10 @@
-#### 不过下面的这个详情得扫码在手机上看
-#### 原因 http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js 在github里访问不到
-
 >详情请看网站：<https://zhangyuaichiyu.github.io/tencent-sports/dist/index.html#/competition/recommend>
 
 
 # Vue-draggable模拟腾讯体育拖拽
 >一年一度的NBA总决赛，相信球迷用的最多的就是腾讯体育这款APP，刚好上手Vue，当练手就把这个APP仿下来。
 
->### 👉源码地址：[Github](https://github.com/prettysheepsheep/tencent-sports-master)✨✨求你的小星星～
+>### 👉源码地址：[Github](https://zhangyuaichiyu.github.io/tencent-sports)✨✨求你的小星星～
 
 # 描述
 前端部分
