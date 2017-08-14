@@ -247,6 +247,9 @@ const state = {
   }, {
     name: '热门',
     url: '/agenda/popular'
+  }], [{
+    name: '关于作者',
+    url: '/mine/index'
   }]],
   // 订阅
   subscribed: [],
@@ -567,4 +570,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[38]);
-//# sourceMappingURL=app.2b4b9e70282d8b0a96b7.js.map
+//# sourceMappingURL=app.b88b958178f8cd105dae.js.map

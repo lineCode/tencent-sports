@@ -1,8 +1,5 @@
 <template>
   <div class="my-resume">
-    <header class="header">
-      关于作者
-    </header>
     <section class="resume-card">
       <div class="card-header">
         <img src="http://oq6u0ixei.bkt.clouddn.com/zhangyu.jpg" alt="" class="header__avatar">
@@ -39,7 +36,6 @@ export default {
   left 0
   right 0
   height 16.466667rem
-  z-index 888
   .header
     width 100%
     text-align center

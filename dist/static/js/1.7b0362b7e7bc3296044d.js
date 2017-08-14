@@ -2350,26 +2350,26 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "tabbar__item",
     attrs: {
       "to": "/mine",
-      "id": "tabbar__item5"
+      "id": "tabbar__item4"
     },
     nativeOn: {
       "click": function($event) {
-        _vm.setIndex(5)
+        _vm.setIndex(4)
       }
     }
-  }, [(_vm.selected != 5) ? _c('img', {
+  }, [(_vm.selected != 4) ? _c('img', {
     attrs: {
       "src": __webpack_require__(177),
       "alt": ""
     }
-  }) : _vm._e(), _vm._v(" "), (_vm.selected === 5) ? _c('img', {
+  }) : _vm._e(), _vm._v(" "), (_vm.selected === 4) ? _c('img', {
     attrs: {
       "src": __webpack_require__(176),
       "alt": ""
     }
-  }) : _vm._e(), _vm._v(" "), (_vm.selected != 5) ? _c('p', {
+  }) : _vm._e(), _vm._v(" "), (_vm.selected != 4) ? _c('p', {
     staticClass: "icon"
-  }, [_vm._v("我的")]) : _vm._e(), _vm._v(" "), (_vm.selected === 5) ? _c('p', {
+  }, [_vm._v("我的")]) : _vm._e(), _vm._v(" "), (_vm.selected === 4) ? _c('p', {
     staticClass: "icon__active"
   }, [_vm._v("我的")]) : _vm._e()])], 1)
 },staticRenderFns: []}
@@ -2823,4 +2823,4 @@ module.exports = Component.exports
 /***/ })
 
 });
-//# sourceMappingURL=1.4103d4ae25bbd6ba53aa.js.map
+//# sourceMappingURL=1.7b0362b7e7bc3296044d.js.map

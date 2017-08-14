@@ -41,6 +41,11 @@ const state = {
       name: '热门',
       url: '/agenda/popular'
     }
+  ], [
+    {
+      name: '关于作者',
+      url: '/mine/index'
+    }
   ]],
   // 订阅
   subscribed: [],

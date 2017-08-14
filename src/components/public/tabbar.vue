@@ -18,11 +18,11 @@
       <p v-if="selected != 3" class="icon">赛程</p>
       <p v-if="selected === 3" class="icon__active">赛程</p>
     </router-link>
-    <router-link to="/mine" class="tabbar__item" id="tabbar__item5" @click.native="setIndex(5)">
-      <img v-if="selected != 5" src="../../assets/img/mine.png" alt="">
-      <img v-if="selected === 5" src="../../assets/img/mine--active.png" alt="">
-      <p v-if="selected != 5" class="icon">我的</p>
-      <p v-if="selected === 5" class="icon__active">我的</p>
+    <router-link to="/mine" class="tabbar__item" id="tabbar__item4" @click.native="setIndex(4)">
+      <img v-if="selected != 4" src="../../assets/img/mine.png" alt="">
+      <img v-if="selected === 4" src="../../assets/img/mine--active.png" alt="">
+      <p v-if="selected != 4" class="icon">我的</p>
+      <p v-if="selected === 4" class="icon__active">我的</p>
     </router-link>
   </div>
 </template>
